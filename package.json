@@ -7,7 +7,7 @@
     "url": "git+https://github.com/nfowl/semver-release-docker.git"
   },
   "author": "nfowl",
-  "license": "ISC",
+  "license": "MIT",
   "private": false,
   "devDependencies": {
     "@types/node": "^15.12.2",
